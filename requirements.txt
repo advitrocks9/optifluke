@@ -1,0 +1,5 @@
+scipy
+numpy
+
+# optibook is Optiver's private trading-academy package. It is not on PyPI and
+# is only available inside the Optiver Trading Academy environment.

@@ -1,0 +1,6 @@
+RATE = 0.03
+SIGMA = 3.0  # academy's fixed volatility assumption
+POSITION_LIMIT = 100
+INDEX_DIVISOR = 1000.0
+ETF_M = 0.25
+CONSTITUENTS = {"ASML": 908.06, "AAPL": 129.24, "SAP": 124.78, "TSLA": 2245.39, "NVDA": 953.21}
